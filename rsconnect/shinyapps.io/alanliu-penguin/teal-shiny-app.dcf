@@ -1,0 +1,12 @@
+name: teal-shiny-app
+title: teal-shiny-app
+username: alanliu-penguin
+account: alanliu-penguin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13381841
+bundleId: 9384070
+url: https://alanliu-penguin.shinyapps.io/teal-shiny-app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
